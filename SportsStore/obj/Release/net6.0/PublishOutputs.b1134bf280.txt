@@ -1,0 +1,15 @@
+/Users/valijon/Projects/SportsSln/SportsStore/bin/Release/net6.0/publish/SportsStore
+/Users/valijon/Projects/SportsSln/SportsStore/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/valijon/Projects/SportsSln/SportsStore/bin/Release/net6.0/publish/appsettings.json
+/Users/valijon/Projects/SportsSln/SportsStore/bin/Release/net6.0/publish/appsettings.Production.json
+/Users/valijon/Projects/SportsSln/SportsStore/bin/Release/net6.0/publish/global.json
+/Users/valijon/Projects/SportsSln/SportsStore/bin/Release/net6.0/publish/SportsStore.dll
+/Users/valijon/Projects/SportsSln/SportsStore/bin/Release/net6.0/publish/SportsStore.runtimeconfig.json
+/Users/valijon/Projects/SportsSln/SportsStore/bin/Release/net6.0/publish/SportsStore.pdb
+/Users/valijon/Projects/SportsSln/SportsStore/bin/Release/net6.0/publish/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/valijon/Projects/SportsSln/SportsStore/bin/Release/net6.0/publish/Microsoft.EntityFrameworkCore.dll
+/Users/valijon/Projects/SportsSln/SportsStore/bin/Release/net6.0/publish/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/valijon/Projects/SportsSln/SportsStore/bin/Release/net6.0/publish/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/valijon/Projects/SportsSln/SportsStore/bin/Release/net6.0/publish/Npgsql.dll
+/Users/valijon/Projects/SportsSln/SportsStore/bin/Release/net6.0/publish/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/valijon/Projects/SportsSln/SportsStore/bin/Release/net6.0/publish/SportsStore.deps.json

@@ -1,0 +1,116 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SportsStore
+build_property.RootNamespace = SportsStore
+build_property.ProjectDir = /Users/valijon/Projects/SportsSln/SportsStore/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/valijon/Projects/SportsSln/SportsStore
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Pages/Admin/AdminLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vQWRtaW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Pages/Admin/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Pages/Admin/Editor.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vRWRpdG9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Pages/Admin/Orders.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vT3JkZXJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Pages/Admin/OrderTable.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vT3JkZXJUYWJsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Pages/Admin/Products.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vUHJvZHVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Pages/Admin/Routed.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vUm91dGVkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Pages/Admin/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vX0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Pages/Admin/IdentityUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vSWRlbnRpdHlVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Pages/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Pages/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Pages/Completed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcGxldGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Pages/_CartLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0NhcnRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Views/Order/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Views/Shared/Components/CartSummary/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQ2FydFN1bW1hcnkvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Views/Shared/Components/NavigationMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvTmF2aWdhdGlvbk1lbnUvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Views/Shared/ProductSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1Byb2R1Y3RTdW1tYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/valijon/Projects/SportsSln/SportsStore/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,18 @@
+﻿version: "3"
+services:
+    sportsstore:
+        build: .
+        ports:
+            - "5000:5000"
+        environment:
+            - ASPNETCORE_ENVIRONMENT=Production
+        depends_on:
+            - postgress
+
+    postgress:
+      image: postgres
+      restart: always
+      environment:
+        POSTGRES_PASSWORD: banan
+      ports:
+        - "5432:5432"
